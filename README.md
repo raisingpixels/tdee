@@ -21,7 +21,7 @@ This TDEE (Total Daily Energy Expenditure) Calculator is designed for **real peo
 1. Enter your age, weight, and height
 2. Select your activity level
 3. Hit "Calculate" and get your **TDEE in calories/day**
-4. Use it to guide your nutrition goals, like making sure you [eat enough protein](https://calculator.tallowandgrace.com/)
+4. Use it to guide your nutrition goals, like making sure you [eat enough protein](https://calculator.thecarnivoremama.com/)
 
 ## 🌿 Tech Stack
 
@@ -33,12 +33,12 @@ Just the essentials:
 
 ## 🚀 Try It Live
 
-👉 [https://tdee.tallowandgrace.com](https://tdee.tallowandgrace.com)
+👉 [https://tdee.thecarnivoremama.com](https://tdee.thecarnivoremama.com)
 
 Or clone the repo and run it locally:
 
 ```bash
-git clone https://github.com/vibecodemama/tdee-calculator.git
+git clone https://github.com/raisingpixels/tdee-calculator.git
 cd tdee-calculator
 open index.html
 ```
@@ -73,4 +73,4 @@ MIT License. Use it freely and share the love.
 ---
 
 Made with love, logic, and a little bit of butter 🧈
-— [Tallow & Grace](https://tallowandgrace.com)
+— [The Carnivore Mama](https://thecarnivoremama.com)
